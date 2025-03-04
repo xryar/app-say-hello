@@ -2,3 +2,5 @@ github.com/xryar/go-say-hello v1.0.0 h1:+9l+NELSz1qSPc1eBnF0YMAWcOY9l5UTE2pIR/b9
 github.com/xryar/go-say-hello v1.0.0/go.mod h1:Fdb423iEkS9WxG+gGC9SEXVteZjwndq6PnEmqbxm5HI=
 github.com/xryar/go-say-hello v1.5.0 h1:1uwe6sDEflfSAczDsLuZPJcDGZNS7/GF3vu1Ntbc/As=
 github.com/xryar/go-say-hello v1.5.0/go.mod h1:Fdb423iEkS9WxG+gGC9SEXVteZjwndq6PnEmqbxm5HI=
+github.com/xryar/go-say-hello/v2 v2.0.0 h1:IC5jeTb0eScykxjY7hHdc7bs9OxQCj5KVhXCMZFqAdo=
+github.com/xryar/go-say-hello/v2 v2.0.0/go.mod h1:jVKpDQ4RYSF8gpfvDRklviPGuVik4jmGu56gS8CNLvQ=
